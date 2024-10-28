@@ -23,13 +23,13 @@ Project by **Ahmed Pasha**, enables real-time hand sign language recognition, co
 
 ## Setup
 1. Clone this repository:
-bash
+
 ```git clone https://github.com/ahmed-pasha/Sign-Language-Alphabet-Tutor.git ```
 2. Install the required dependencies:
-bash
+
 ```pip install -r requirements.txt```
 ## Run the program:
-bash
+
 ```python sign_language_recognition.py```
 
 ## Dataset
